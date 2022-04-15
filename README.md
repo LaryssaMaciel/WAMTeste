@@ -1,2 +1,2 @@
-# WAMTeste
-projeto teste whack a mole
+# minigames
+atividade prática de programação, 2 minigames 
